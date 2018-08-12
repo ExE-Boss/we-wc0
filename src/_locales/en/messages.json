@@ -1,0 +1,4 @@
+{
+	"extensionName":	{ "message":	"WebComponents v0"	},
+	"description":	{ "message":	"A Firefox WebExtension which polyfills WebComponents v0 APIs using the WebComponents v1 implementation. "	}
+}
