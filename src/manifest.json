@@ -13,6 +13,18 @@
 	"description":	"__MSG_description__",
 	"default_locale":	"en",
 
+	"icons": {
+		"16":	"icons/16/brick-plugin.png",
+		"24":	"icons/24/brick-plugin.png",
+		"32":	"icons/32/brick-plugin.png",
+		"48":	"icons/48/brick-plugin.png",
+		"64":	"icons/64/brick-plugin.png",
+		"72":	"icons/72/brick-plugin.png",
+		"96":	"icons/96/brick-plugin.png",
+		"128":	"icons/128/brick-plugin.png",
+		"256":	"icons/256/brick-plugin.png"
+	},
+
 	"content_scripts": [{
 		"all_frames": true,
 		"js": [
