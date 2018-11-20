@@ -24,7 +24,7 @@
 
 	"devDependencies": {
 		"@exe-boss/eslint-config": "0.1.x",
-		"@types/firefox-webext-browser": "*",
+		"@types/firefox-webext-browser": ">=64.0.0",
 		"@types/gulp": "*",
 		"@types/gulp-replace": "*",
 		"@types/node": "*",
