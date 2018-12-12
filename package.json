@@ -28,7 +28,7 @@
 		"@types/gulp": "*",
 		"@types/gulp-replace": "*",
 		"@types/node": "*",
-		"@types/sinon": "^5.0.1",
+		"@types/sinon": "^7.0.0",
 		"eslint": "^5.3.0",
 		"fs-extra": "^7.0.0",
 		"gulp": "^3.9.1",
